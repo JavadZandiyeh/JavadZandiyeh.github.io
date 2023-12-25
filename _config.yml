@@ -78,11 +78,11 @@ analytics:
 author:
   name             : "Mohammad Javad Zandiyeh"
   avatar           : "profile.png"
-  bio              : "BSc Student in Computer Engineering<br><a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png'></a>"
+  bio              : "BSc Student in Computer Engineering at Amirkabir University of Technology<br><a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png', width=100, height=100></a>"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mjzandiyeh1379@aut.ac.ir"
   gmail            : "zandiyeh.mj@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
