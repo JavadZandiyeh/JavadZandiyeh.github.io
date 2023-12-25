@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Mohammad Javad Zandiyeh"
   avatar           : "profile.png"
-  bio              : "Bachelor of Science<br>Computer Engineering<br>Amirkabir University<br><a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png', width=10, height=10></a>"
+  bio              : "Bachelor of Science<br>Computer Engineering<br>Amirkabir University<br><a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png'></a>"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
