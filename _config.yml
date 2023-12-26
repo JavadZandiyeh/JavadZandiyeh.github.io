@@ -79,7 +79,7 @@ author:
   name             : "Mohammad Javad Zandiyeh"
   avatar           : "profile.png"
   bio              : "Bachelor of Science<br>Computer Engineering<br>Amirkabir University"
-  logos            : "<a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png, style='width: 20px; height: auto;'</a>"
+  logos            : "<a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png'></a>"
   location         : "Tehran, Iran"
   email            : "mjzandiyeh1379@aut.ac.ir"
   gmail            : "zandiyeh.mj@gmail.com"  
