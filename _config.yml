@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Mohammad Javad Zandiyeh"
 title_separator          : "-"
 name                     : &name "Mohammad Javad Zandiyeh"
-description              : &description "The homepage of Mohammad Javad Zandiyeh"
-url                      : https://javadzandiyeh.github.io # the base hostname & protocol for your site e.g. "https://javadzandiyeh.github.io"
+description              : &description "The Homepage of Mohammad Javad Zandiyeh"
+url                      : https://javadzandiyeh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JavadZandiyeh/JavadZandiyeh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,43 +78,20 @@ analytics:
 author:
   name             : "Mohammad Javad Zandiyeh"
   avatar           : "profile.png"
-  bio              : "Bachelor of Science<br>Computer Engineering<br>Amirkabir University<br><a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png', style='width: 20'></a>"
+  bio              : "Bachelor of Science<br>Computer Engineering<br>Amirkabir University"
+  logos            : "<a href='https://aut.ac.ir/en'><img src='/images/aut-logo-en.png, style='width: 20px; height: auto;'</a>"
   location         : "Tehran, Iran"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mjzandiyeh1379@aut.ac.ir"
-  gmail            : "zandiyeh.mj@gmail.com"
-  skype            : 
-  phone            : # "+989011021671"
-  telegram         : "@MJ_Zandiyeh"
-  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "JavadZandiyeh"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "mj-zandiyeh"
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  gmail            : "zandiyeh.mj@gmail.com"  
   twitter          : "MJ_Zandiyeh"
-  vine             :
-  weibo            :
-  xing             :
+  linkedin         : "mj-zandiyeh"
+  github           : "JavadZandiyeh"
+  telegram         : "@MJ_Zandiyeh"
+  phone            :
+  skype            : 
+  instagram        :
+  stackoverflow    :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
